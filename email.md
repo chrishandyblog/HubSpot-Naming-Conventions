@@ -10,3 +10,4 @@ There are many dates to consider with an email.
 - Last Sent Date (for "Send to More" and Workflow emails)
 
 We don't have to include send dates 
+But
